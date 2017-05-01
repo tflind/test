@@ -281,7 +281,7 @@ function canvasSetup(){
 
 function loadGraphics(){
     var img = new Image();
-    img.src = "linksheet.png";
+    img.src = "linkSheet.png";
     var imgfireball = new Image();
     imgfireball.src = "fireBall.png";
     img.onload = function(){
